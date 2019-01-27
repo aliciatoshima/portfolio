@@ -3,6 +3,19 @@ img {
   width: 100%;
 }
 
+li {
+  font-size: 20px;
+}
+
 .desc {
   font-size: 30px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
 }
