@@ -33,3 +33,11 @@ p {
   font-size: 21px;
   font-weight: 200;
 }
+
+.box {
+  float: left;
+  height: 150px;
+  width: 125px;
+  padding: 6px;
+  margin: 10px;
+}
